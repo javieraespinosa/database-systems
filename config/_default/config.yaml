@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: 'DBMS 101' # Website name
-baseURL: 'https://espinosa-oviedo.com/dbms-101' # Website URL
+title: 'Database Systems' # Website name
+baseURL: 'https://espinosa-oviedo.com/database-systems' # Website URL
 
 ############################
 ## PAGE OPTIONS
