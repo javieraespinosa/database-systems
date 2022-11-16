@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Javier Espinosa
+title: Javier A. Espinosa-Oviedo
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,7 +14,7 @@ status:
 
 # Organizations/Affiliations
 organizations:
-  - name: CPE, Univ. Lyon / LIRIS-CNRS
+  - name: CPE, Univ. Lyon & LIRIS
     url: ''
 
 

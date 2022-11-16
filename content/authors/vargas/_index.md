@@ -1,22 +1,30 @@
 ---
 # Display name
-title: Mathieu Baudin
+title: Genoveva Vargas-Solar
+
+# Is this the primary user of the site?
+superuser: true
 
 # Role/position
-role: Data Specialist, Team Leader 
+role: Senior Researcher
+
+# Status emoji
+status:
+  icon: 
 
 # Organizations/Affiliations
 organizations:
-  - name: Sopra Steria
+  - name: CNRS & LIRIS
     url: ''
+
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
-interests:
-- Business Intelligence
-- Databricks
-- AWS
+# interests:
+# - Data Science
+# - GIS
+
 
 #education:
 #  courses:
@@ -36,13 +44,18 @@ interests:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
+  - icon: globe
+    icon_pack: fas
+    link: http://vargas-solar.com
+
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/mathieu-baudin-828839b7/
+    link: https://www.linkedin.com/in/genoveva-vargas/
 
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:' # For a direct email link, use "mailto:test@example.org".
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:genoveva.vargas-solar@cnrs.fr' # For a direct email link, use "mailto:test@example.org".
+
 
 
   # - icon: twitter
@@ -68,8 +81,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - "Invited Experts"
-  - "Sopra Steria"
+  - Lecturers
 
 highlight_name: true
 ---

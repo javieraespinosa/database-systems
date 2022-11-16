@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Osman Aidal
+title: Alain Becker
 
 # Role/position
-role: Research Engineer
+role: Teaching Assistant
 
 # Organizations/Affiliations
 organizations:
-  - name: CNRS / CC-IN2P3
+  - name: Freelancer
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
@@ -35,13 +35,13 @@ bio:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-  - icon: linkedin
-    icon_pack: fab
-    link: https://fr.linkedin.com/in/osman-aidel-382b957
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: 
 
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:oaidel@cc.in2p3.fr' # For a direct email link, use "mailto:test@example.org".
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:example@domain.fr' # For a direct email link, use "mailto:test@example.org".
 
 
   # - icon: twitter
@@ -67,7 +67,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Lecturers
+  - "Teaching Assistant"
 
 highlight_name: true
 ---
