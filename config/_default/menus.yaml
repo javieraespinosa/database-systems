@@ -1,0 +1,40 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    url: '#about'
+    weight: 10
+
+  - name: Staff
+    url: '#staff'
+    weight: 20    
+
+  - name: Syllabus 
+    url: '#program'
+    weight: 30
+    identifier: syllabus
+
+  - name: IRC program
+    url: '#irc-program'
+    weight: 31
+    parent: syllabus
+
+  - name: ETI program
+    url: '#eti-program'
+    weight: 32
+    parent: syllabus
+
+  - name: Practicals
+    url: '#practicals'
+    weight: 40
+
+  - name: Datathon
+    url: '#datathon'
+    weight: 41
+
+  - name: Resources
+    url: '#resources'
+    weight: 50
