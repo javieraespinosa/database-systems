@@ -1,3 +1,3 @@
 User-agent: *
 
-Sitemap: https://espinosa-oviedo.com/dbms-101/sitemap.xml
+Sitemap: https://espinosa-oviedo.com/database-systems/sitemap.xml
