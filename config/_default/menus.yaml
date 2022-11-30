@@ -10,9 +10,9 @@ main:
 
   - name: Staff
     url: '#staff'
-    weight: 20 
+    weight: 20
 
-  - name: Syllabus 
+  - name: Syllabus
     url: '#program'
     weight: 30
     identifier: syllabus
@@ -21,6 +21,6 @@ main:
   #   url: '#practicals'
   #   weight: 40
 
-  # - name: Resources
-  #   url: '#resources'
-  #   weight: 50
+  - name: Resources
+    url: '#resources'
+    weight: 50
