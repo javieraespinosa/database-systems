@@ -4,7 +4,7 @@ headless: true
 weight: 10
 draft: true
 
-title: Fundamentals of </br> Database Management Systems 
+title: Database Systems </br> Fundamentals
 subtitle: 
 
 design:
@@ -21,7 +21,7 @@ design:
     image_parallax: true
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-  
+
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["80px", "0", "80px", "0"]
@@ -29,5 +29,3 @@ design:
   columns: '1'
 
 ---
-
-
